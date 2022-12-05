@@ -22,4 +22,5 @@ Or
 2. Upload the creditcard.csv file to sample_data in google cola
 3. Run the colab
 
+**Note:** Ppt, Video and report are included in the github repo
 
