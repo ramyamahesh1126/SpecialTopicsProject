@@ -24,3 +24,5 @@ Or
 
 **Note:** Ppt, Video and report are included in the github repo
 
+Colab link: https://colab.research.google.com/drive/1v1IVxKmASxota9691xDGLQ0itPdg2yLZ 
+
