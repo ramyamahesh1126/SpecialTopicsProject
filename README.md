@@ -1,5 +1,11 @@
 # Special Topics Project
 
+## Team Members:
+
+1. Ashika Anand Babu
+2. Anusha Gangasani
+3. Ramya Mahesh
+
 ## Credit Card Fraud Detection using Autoencoders
 
 **Steps to run the project**:
