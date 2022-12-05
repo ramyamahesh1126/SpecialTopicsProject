@@ -1,5 +1,7 @@
 # Special Topics Project
 
+## Team Name: Dementors
+
 ## Team Members:
 
 1. Ashika Anand Babu
