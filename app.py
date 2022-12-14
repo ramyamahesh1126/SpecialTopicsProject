@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 st.title('Credit Card Fraud Detection')
 
 DATE_COLUMN = 'date/time'
-DATA_URL = ('/Users/ramyamahesh/Downloads/creditcard.csv')
+DATA_URL = ('https://drive.google.com/file/d/1HiFyESnf22FeI2FBNR29z6Oq0C9zoQiC/view?usp=sharing')
 
 @st.cache
 def load_data(nrows):
