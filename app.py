@@ -15,7 +15,7 @@ if uploaded_file is not None:
     data = pd.read_csv(uploaded_file)
     st.write(data)
 else:
-    st.warning(“you need to upload a csv file.”)
+    st.warning("you need to upload a csv file.")
     
 #time.sleep(120)    
 
