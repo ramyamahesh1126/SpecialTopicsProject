@@ -25,6 +25,8 @@ if uploaded_file is not None:
     # Can be used wherever a "file-like" object is accepted:
     data = pd.read_csv(uploaded_file)
     st.write(data)
+    
+time.sleep(120)    
 
 @st.cache
 def load_data(nrows):
